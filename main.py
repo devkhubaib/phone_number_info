@@ -12,7 +12,7 @@ root.title("Phone Number Tracker")
 root.geometry("385x594+300+200")
 root.resizable(False,False)
 root.configure(bg='#96BFFF')
-key="dc42a63628ef4632a35589cad818b56f"
+key="YOUR_API_KEY(get it from opencage)"
 
 def track():
     enter_nb=entry.get()
